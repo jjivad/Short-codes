@@ -1,0 +1,30 @@
+.togBtn {
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: rgb(62, 137, 202);
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    border: 1px solid rgb(230, 167, 167);
+    text-shadow: 0px 1px black;
+}
+
+.togBtn:hover {
+    background-color: brown;
+}
+
+.hidTxt {
+    display: none;
+}
+
+.hiddenTxt {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    background-color: bisque;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
